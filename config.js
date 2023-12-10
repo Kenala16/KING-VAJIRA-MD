@@ -14,15 +14,15 @@ global.email = 'botwhatsapp204@gmail.com' ;
 global.location = 'Rathnapura SriLanka' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Colombo'
 global.gurl = 'https://youtube.com/@gamingewingyt6216' ; // add your username
-global.sudo =  process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : 263714906216'; ;
+global.sudo =  process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : 263786926067'; ;
 global.devs = "923184474176"; //Dont change it From here
 global.github  = process.env.YOUR_GITHUB || 'https://github.com/vajirabot1/KING-VAJIRA-MD';
 global.scan  = process.env.QR_URL || 'https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1';
 global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' ; //wa.me/+923000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg' ;
 module.exports = {
-  sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
-  botname: process.env.BOT_NAME || 'ᴋᴇᴋᴇᴛsᴏ ʙᴏᴛ',
+  sessionName: process.env.SESSION_ID || "VAJIRA;;;SiberiaLonigan",      //Put Your Session Id Here
+  botname: process.env.BOT_NAME || 'VILLA BOT',
   botbgm: process.env.BOT_BGM || 'false',
   ownername:  process.env.OWNER_NAME || `ᴋᴇɴᴅʀɪᴄᴋ`,
   author:  process.env.PACK_AUTHER || 'ᴋᴇᴋᴇᴛsᴏ ʙᴏᴛ',
